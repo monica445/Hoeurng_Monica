@@ -1,71 +1,38 @@
-# 👋 Hi, I'm Monica
+# Hi, I'm Monica
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:monicashalom86@gmail.com)
-</div>
+I'm a Software Engineering student at CADT in Phnom Penh. I like building apps, figuring out why something isn't working, and learning from the people I work with. Most of my work so far is frontend and mobile, with some backend on the side.
 
-## 💻 **Software Engineering Student** passionate about building solutions that make a difference
+This past year I interned as a frontend developer at ADD Cambodia, where I worked on a Telegram Mini App. Before that, I built a few projects at school with my classmates.
 
----
+## What I work with
 
-## 🛠️ **Technical Skills**
+- **Languages:** Dart, JavaScript, TypeScript
+- **Frontend and mobile:** React, Tailwind CSS, Flutter
+- **Backend:** Node.js, Express.js, REST APIs
+- **Databases:** MySQL, PostgreSQL, SQLite
+- **Tools:** Git, GitHub, Figma
 
-### Languages & Frameworks
-| Category | Technologies |
-|----------|------------|
-| **Frontend** | ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black) |
-| **Mobile** | ![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat&logo=flutter&logoColor=white) |
-| **Database** | ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-| **Cloud** | ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black) |
-| **Core** | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+## What I'm Learning Right Now
 
-### Currently Learning
-- 🌱 RESTful API Design
-- 🌱 Mobile Development (Serverless Architecture)
-- 🌱 Firebase & Cloud Functions
+- Integrating ABA PayWay into applications
+- Writing and improving code tests
+- Setting up CI/CD pipelines and working with Docker
 
----
+## Projects
 
-## 📱 **Featured Projects**
+**Telegram Mini App** (internship, ADD Cambodia)
+I researched Telegram's design guidelines, helped design the UX/UI, and built frontend features in React, TypeScript and Tailwind CSS. I also worked with the backend team to connect the APIs.
 
-### 🏥 **Queue Station Application**
-*Restaurant queue management system*
-- Developed a digital queue system for restaurants
-- Reduced customer physical wait time
-- **Tech:** Flutter, Firestore
+**Queue Station**
+A queue management app for restaurants, so customers can see where they are in line instead of waiting around. I built the food catalog and order history screens in Flutter and helped design the database for users, queues, orders and menu items.
 
-### 🫙 **Mood Jar Application**
-*Mood Tracking App*
-- Daily mood tracking with visual analytics
-- Personalized insights and trends over time
-- **Tech:** Flutter, Local Storage
+**Mood Jar**
+A simple app for logging your mood each day. It turns your entries into summaries so you can spot patterns over time. Built with Flutter, with data stored locally in SQLite.
 
-### ❓ **QuizWhiz Website**
-*Interactive learning platform*
-- Dynamic quiz generation with multiple categories
-- Real-time scoring and progress tracking
-- **Tech:** React, JavaScript
+## What I'm looking for
 
----
+An internship or junior role where I can learn from experienced developers, gain practical experience, work with a team, and continue growing as a software developer.
 
-## 🎯 **What I'm Looking For**
+## Contact
 
-I'm currently seeking opportunities to apply my skills in **software engineering** where I can:
-- 🤝 Collaborate with experienced developers
-- 🚀 Contribute to meaningful projects
-- 📚 Continue learning and growing
-
----
-
-## 📫 **Let's Connect!**
-
-- 📧 Email: [monicashalom86@gmail.com](mailto:monicashalom86@gmail.com)
-
----
-
-<div align="center">
-
-*Open to collaboration and opportunities* ✨
-
-</div>
+Email me at [monicashalom86@gmail.com](mailto:monicashalom86@gmail.com)
